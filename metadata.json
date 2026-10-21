@@ -1,0 +1,6 @@
+{
+  "name": "디지털 가디언즈: 네오 아일랜드 구출 대작전",
+  "description": "2022 개정 교육과정 초등 4학년 도덕과 정보통신윤리 탐구형 RPG 게임 및 교사용 실시간 과정중심평가·나이스 평어 연계 솔루션",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
